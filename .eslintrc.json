@@ -2,6 +2,8 @@
     "extends": "airbnb",
     "installedESLint": true,
     "plugins": [
-        "react"
+        "react",
+        "import",
+        "jsx-a11y"
     ]
 }
